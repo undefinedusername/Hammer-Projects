@@ -1,6 +1,8 @@
 # Hammer-Projects
 ## Source Game:
 Portal: Prelude (source mod)
+## GITHUB WIKI:
+https://github.com/undefinedusername/Hammer-Projects/wiki/Maps
 ### Installation Guide:
 To install the files, goto the file directory with the materials and create the folder "NJE".
 same with the sounds directory!
